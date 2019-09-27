@@ -19,5 +19,11 @@ public:
 
     MyStack();
     bool push(int i);
+    void pop();
+    int top() const;
+    bool empty() const;
+    bool full() const;
+    void print() const;
+
 
 };
