@@ -7,3 +7,7 @@ CMakeFiles/Lab3.dir/main.cpp.o: ../stack.hpp
 CMakeFiles/Lab3.dir/stack.cpp.o: ../stack.cpp
 CMakeFiles/Lab3.dir/stack.cpp.o: ../stack.hpp
 
+CMakeFiles/Lab3.dir/unit_tests.cpp.o: ../catch.hpp
+CMakeFiles/Lab3.dir/unit_tests.cpp.o: ../stack.hpp
+CMakeFiles/Lab3.dir/unit_tests.cpp.o: ../unit_tests.cpp
+

@@ -24,6 +24,4 @@ public:
     bool empty() const;
     bool full() const;
     void print() const;
-
-
 };
